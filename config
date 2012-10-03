@@ -6,7 +6,7 @@
 	ignorecase = true
 [remote "origin"]
 	fetch = +refs/heads/*:refs/remotes/origin/*
-	url = git@github.com:rahul8590/rahul8590.github.com.git
+	url = git@github.com:rahul8590/rahul8590.git
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
